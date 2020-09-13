@@ -16,7 +16,7 @@
 #### Task 1 설명:
 첫 번째 과제에서는 시계열 데이터를 클러스터링하고, 주어진 기간 동안 서로 동일한 성과를 내는 주식을 찾아내는 방법을 배웁니다. 진행과정에서 주식시장 데이터를 다운로드 하고, 각 주가를 정규화한 후, 고유한 모양을 가지는 주식 클러스터를 식별할 것입니다. 그 다음 어떤 주식이 동일한 패턴을 보이는지 살펴보고 정리합니다. 여러가지 K (2~20)값을 시도하여 최소 SSD (Sum of the squared distances, 각 데이터포인트와 클러스터 중심사이의 거리 제곱의 합)를 리턴하는  `k`를 찾아냅니다. 
 
-다음 링크의 [starter code](https://github.com/aws-samples/amazon-sagemaker-architecting-for-ml/blob/master/Starter-Code/Apply%20clustering%20techniques-kr.ipynb)를 참고합니다. Task 2를 위해 보다 많은 시간을 투자하실 수 있도로 Task1은 보다 많은 구분을 이미 구현한 상태로 준비하였습니다.
+다음 링크의 [starter code](../Starter-Code/Apply%20clustering%20techniques-kr.ipynb)를 참고합니다. Task 2를 위해 보다 많은 시간을 투자하실 수 있도로 Task1은 보다 많은 구분을 이미 구현한 상태로 준비하였습니다.
 
 
 #### *References:*
